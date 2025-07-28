@@ -1,5 +1,5 @@
 # Hidri: A Decentralized Protocol for Trustless Machine Learning
-### Whitepaper v0.1 - October 2023
+### Whitepaper v0.1 - July 2025
 
 ---
 
